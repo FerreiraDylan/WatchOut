@@ -559,3 +559,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.10-11.44.48:627][772]LogSavePackage: Moving '../../../../../../Users/Dylan/Documents/WatchOut/WatchOut/Saved/FirstPersonExampleMap23226845465976B37EAA2CBA56EA7E34.tmp' to '../../../../../../Users/Dylan/Documents/WatchOut/WatchOut/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
 [2019.12.10-11.44.52:486][772]LogSavePackage: Moving '../../../../../../Users/Dylan/Documents/WatchOut/WatchOut/Saved/FirstPersonExampleMap_BuiltDataC82B90AE49B72A1452E7C799C2EAE05B.tmp' to '../../../../../../Users/Dylan/Documents/WatchOut/WatchOut/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2019.12.10-11.44.52:554][773]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A80D0E40-4752-D61A-3721-D7BEC08EFDA5}
+[2019.12.10-11.52.53:406][746]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={E5263467-4C82-1C18-E3CA-D19E8EBF1527}
