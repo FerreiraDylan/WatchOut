@@ -2,7 +2,7 @@ WatchOut (Unreal Engine)
 
 Creation of an Overwatch like.
 
-[3 mounths - group of 3]
+[3 mounths - group of 4]
 
 My Achievement - Added various features:
 
